@@ -37,10 +37,9 @@ function MyApp({ Component, pageProps }) {
           async
         />
       </Head>
-      
-      <Component {...pageProps} />
+
       <footer>
-        <WaveFooter />
+
         <Footer />
       </footer>
     </>
