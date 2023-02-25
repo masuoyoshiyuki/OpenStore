@@ -34,5 +34,10 @@
     "eslint-config-next": "11.1.2",
     "postcss": "^8.3.8",
     "tailwindcss": "^2.2.15"
+  },
+  "pnpm": {
+    "overrides": {
+      "ethereumjs-abi": "https://registry.npmjs.org/ethereumjs-abi/-/ethereumjs-abi-0.6.8.tgz"
+    }
   }
 }
